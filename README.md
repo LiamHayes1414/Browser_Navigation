@@ -1,4 +1,4 @@
-# Browser_Navigation
+# Browser_Navigation (Python)
 Here is an example of how to navigate through any webbrowser automatically. A few things to mention...
 
     - Chrome Navigation.ipynb is the main code file. If you have jupyter notebook I would recommend downloading it as a .ipynb file
